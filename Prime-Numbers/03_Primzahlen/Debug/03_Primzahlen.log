@@ -1,0 +1,5 @@
+﻿  primsieb.cpp
+  LINK : \\tsclient\F\Projekt Woche\APS\03_Primzahlen\Debug\03_Primzahlen.exe wurde nicht gefunden oder beim letzten inkrementellen Linkvorgang nicht erstellt; vollständiger Link wird durchgeführt.
+primsieb.obj : warning LNK4075: /EDITANDCONTINUE wird aufgrund der Angabe von /OPT:LBR ignoriert.
+  03_Primzahlen.vcxproj -> \\tsclient\F\Projekt Woche\APS\03_Primzahlen\Debug\03_Primzahlen.exe
+  03_Primzahlen.vcxproj -> \\tsclient\F\Projekt Woche\APS\03_Primzahlen\Debug\03_Primzahlen.pdb (Full PDB)
