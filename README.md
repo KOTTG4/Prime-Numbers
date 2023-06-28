@@ -6,7 +6,6 @@
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Screenshots](#screenshots)
 
 ## Project Overview
 
@@ -39,8 +38,6 @@ German (Deutsch):
 
 - C++ Console
 
-## Screenshots
-![image](https://github.com/KOTTG4/Prime-Numbers/assets/116221777/2300a7ec-d5af-4781-9866-787c60e1e5cc)
 
 
 
